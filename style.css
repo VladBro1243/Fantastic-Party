@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:DodgerBlue;
+    padding:5px;
+}
+header a{
+    background-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 4px;
+
+}
+
+
+main h1{
+    color: DodgerBlue;
+    text-align: center;
+}
+
+
+footer p{
+    color:DodgerBlue;
+}
+
+
+footer{
+    background-color: PINK;
+    border-radius: 10px;
+}
